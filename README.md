@@ -1,2 +1,2 @@
 
-Chek it out, the preview of web page >>> https://ameertmsy.github.io/e-learning/
+Chek it out, the preview of webpage >>> https://ameertmsy.github.io/e-learning/
